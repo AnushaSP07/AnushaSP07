@@ -31,7 +31,6 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><a href="https://github.com/AnushaSP07"></a>
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><a href="https://twitter.com/AnushaSP07"></a>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/anjana-7532b8221/"></a>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/anjana-7532b8221/"></a>
         <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"><a href="https://www.quora.com/profile/Tina-2841"></a>
         </div>
 </body>
