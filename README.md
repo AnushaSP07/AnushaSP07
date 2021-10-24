@@ -12,7 +12,7 @@
     <p>💁🏻‍♀️ An enthusiastic learner and creative thinker</p>
     <p>💁🏻‍♀️ Multidisciplinary designer who hacks at, makes and occasionally breaks things.</p>
     <p>💁🏻‍♀️ In path of learning and updating myself in all ways I can</p>
-    <p>💁🏻‍♀️ A good easy learner,speakera and well defined writer</p>
+    <p>💁🏻‍♀️ A good easy learner,speaker and well defined writer</p>
   <hr>
     <h3>Technologies</h3>
     <div>
